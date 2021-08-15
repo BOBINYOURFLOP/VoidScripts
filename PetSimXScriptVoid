@@ -95,7 +95,7 @@
 
 
 
-local A_1 = "WURDE HOPS GENOMMEN VON MAXI WEIL ICH EIN CHEAT WOLLTE"
+local A_1 = "ICH WURDE VON MAXI HOPS GENOMMEN WEIN ICH LOST BIN :D"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
